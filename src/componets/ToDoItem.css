@@ -1,0 +1,30 @@
+.to-do.ui.yellow {
+  margin-top: 2%;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.vi {
+  position: absolute;
+  color: green;
+  right: 14%;
+}
+
+.redo {
+  position: absolute;
+  color: yellow;
+  right: 8%;
+}
+
+.x {
+  position: absolute;
+  color: red;
+  right: 2%;
+}
+
+.vi:hover,
+.x:hover {
+  opacity: 0.6;
+}
